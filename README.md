@@ -1,12 +1,11 @@
-
-<h1 align="center">Hi, I'm Ashwin Mohan 👋</h1>
+ <h1 align="center">Ashwin Mohan</h1>
 
 <h3 align="center">
-  Computer Science and Robotics Honors @ UT Austin · Software Engineering · AI/ML
+  Computer Science & Robotics Honors @ UT Austin · Software Engineering · AI/ML
 </h3>
 
 <p align="center">
-  <a href="https://wwwlinkedin.com/in/ashwin-mohan21/">
+  <a href="https://www.linkedin.com/in/ashwin-mohan21/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ashwin.mohan.710@gmail.com">
@@ -16,47 +15,58 @@
 
 ---
 
-### 👨‍💻 About me
+### About Me
 
-- 🎓 Computer Science student at **The University of Texas at Austin**
-- 🧠 Interested in software engineering, AI/ML and intelligent systems
-- 🛠️ Enjoy building projects that connect software with real-world applications
-- 🤖 Exploring robotics, machine learning and systems development
-- 🎹 Outside of tech: piano, violin and soccer
+Computer Science student at **The University of Texas at Austin**, pursuing interests in software engineering, AI/ML and robotics.
+
+Interested in building practical software, exploring intelligent systems and working across different areas of technology.
 
 ---
 
-### 🚀 Featured projects
+### Featured Projects
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| **[TurnaroundOS](YOUR_TURNAROUNDOS_REPO_URL)** | An interactive aircraft turnaround simulator for exploring operational disruptions, bottlenecks and recovery strategies | Python · React · Kafka · AWS |
-| **[DispatchLens](YOUR_DISPATCHLENS_REPO_URL)** | A data observability platform that monitors operational feeds, catches schema issues and tracks pipeline health | Python · PostgreSQL · dbt · Power BI |
-| **[Coppell Community Hub](https://github.com/bagee0108/Coppell-Community-Hub)** | A community platform connecting residents with local events, resources and discussions | React · JavaScript · Firebase |
+| **[TurnaroundOS](YOUR_TURNAROUNDOS_REPO_URL)** | Aircraft turnaround simulation platform for modeling operational dependencies and experimenting with disruption recovery | Python · React · Kafka · AWS |
+| **[DispatchLens](YOUR_DISPATCHLENS_REPO_URL)** | Data observability platform for monitoring operational feeds, validating schemas and investigating data quality | Python · PostgreSQL · dbt · Power BI |
+| **[Coppell Community Hub](https://github.com/bagee0108/Coppell-Community-Hub)** | Community platform bringing local events, resources and discussions together | React · JavaScript · Firebase |
 
 ---
 
-### 🧰 Tech I work with
+### Technical Honors & Achievements
+
+| Achievement | Recognition |
+|:---|:---|
+| **Technology Student Association** | National finalist, top 6 of 250+ teams in Mathematical Modeling and Engineering Design/Build |
+| **UAV Drone Challenge** | State finalist; assembled and programmed an FPV drone |
+| **Journal of Emerging Investigators** | Developed an ensemble ML model for urban power outage prediction; research paper submitted to peer-reviewed student journal |
+| **UT Computer Science Academy for Robotics** | Built autonomous robots using Arduino, C++ and PID control |
+| **Inspirit AI** | AI Scholar & AI Researcher certification |
+| **Certiport** | Java IT Specialist certification |
+
+---
+
+### Tech Stack
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
 </p>
 
-**Frameworks & Tools**
+**Frameworks, Databases & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,firebase,docker,aws,kafka,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,fastapi,firebase,postgres,docker,aws,kafka,git,github" />
 </p>
 
-Focus areas: Backend development · Data engineering · AI/ML · Cloud infrastructure
+Focus areas: Backend Development · Data Engineering · AI/ML · Cloud Infrastructure
 
 ---
 
-### 🤝 Let's connect
+### Let's Connect
 
-Always interested in meeting people working on interesting projects, learning new technologies and exploring opportunities to collaborate.
+Always open to connecting with people building interesting things, exploring new technologies and collaborating on projects.
 
 <p>
   <a href="https://www.linkedin.com/in/ashwin-mohan21/">
