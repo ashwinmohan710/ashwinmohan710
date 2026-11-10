@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="center">Hi, I'm Ashwin Mohan 👋</h1>
 
 <h3 align="center">
-  Computer Science @ UT Austin · Software Engineering · AI/ML · Robotics
+  Computer Science and Robotics Honors @ UT Austin · Software Engineering · AI/ML
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://wwwlinkedin.com/in/ashwin-mohan21/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ashwin.mohan.710@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -54,24 +54,15 @@ Focus areas: Backend development · Data engineering · AI/ML · Cloud infrastru
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
 ### 🤝 Let's connect
 
 Always interested in meeting people working on interesting projects, learning new technologies and exploring opportunities to collaborate.
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ashwin-mohan21/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ashwin.mohan.710@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
