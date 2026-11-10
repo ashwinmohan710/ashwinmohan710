@@ -18,7 +18,7 @@
 
 ### About Me
 
-Computer Science student at **The University of Texas at Austin**, pursuing Robotics Honors.
+Computer Science student at **The University of Texas at Austin**. Interested in software engineering, AI/ML, robotics and building technology with real-world applications.
 
 - **Previous Software Development & Data Intern, XTRIUM:** Built Python automation and data pipelines processing 40,000+ records, and evaluated AI retrieval systems to improve answer accuracy from 72% to 86%.
 - **TEAMS National Finalist:** Top 6 nationally among 250+ teams in the Tests of Engineering Aptitude, Mathematics and Science competition.
@@ -26,7 +26,6 @@ Computer Science student at **The University of Texas at Austin**, pursuing Robo
 - **Texas TSA State Finalist:** Top 10 finishes in the UAV Drone Challenge, building and programming an FPV drone, and Webmaster, developing a community resource hub web application.
 - **National Merit Corporate Scholarship Winner:** Emerson Electric.
 
-Interested in software engineering, AI/ML, robotics and building technology with real-world applications.
 
 ---
 
