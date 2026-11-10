@@ -33,9 +33,9 @@ Computer Science student at **The University of Texas at Austin**. Interested in
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [**TurnaroundOS**](YOUR_TURNAROUNDOS_REPO_URL) | Aircraft turnaround simulation platform for modeling operational dependencies and experimenting with disruption recovery | Python · React · Kafka · AWS |
-| [**DispatchLens**](YOUR_DISPATCHLENS_REPO_URL) | Data observability platform for monitoring operational feeds, validating schemas and investigating data quality | Python · PostgreSQL · dbt · Power BI |
-| [**Coppell Community Hub**](YOUR_COPPELL_REPO_URL) | Community platform bringing local events, resources and discussions together | React · JavaScript · Firebase |
+| **TurnaroundOS** | Aircraft turnaround simulation platform for modeling operational dependencies and experimenting with disruption recovery | Python · React · Kafka · AWS |
+| **DispatchLens** | Data observability platform for monitoring operational feeds, validating schemas and investigating data quality | Python · PostgreSQL · dbt · Power BI |
+| **Coppell Community Hub** | Community platform bringing local events, resources and discussions together | React · JavaScript · Firebase |
 
 ---
 
